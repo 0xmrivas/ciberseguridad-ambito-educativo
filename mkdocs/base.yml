@@ -2,33 +2,33 @@ site_name: Docs
 theme:
   name: material
   language: es
-  logo: assets/logo-alberties.png
   favicon: assets/logo-alberties.png
   palette:
-    - media: "(prefers-color-scheme: light)" 
+    - media: '(prefers-color-scheme: light)'
       scheme: default
-      primary: white
+      primary: grey
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)" 
+    - media: '(prefers-color-scheme: dark)'
       scheme: slate
       primary: black
       toggle:
         icon: material/toggle-switch
-        name: Switch to light mode    
+        name: Switch to light mode
   features:
     - navigation.instant
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.sections
-    - navigation.expand
+    # - navigation.sections
+    # - navigation.expand
     - navigation.top
     - header.autohide
+    - navigation.indexes
 
 plugins:
-# Configuración de ejemplo, no se aplicará mientras que no se elimine este plugin de los .yml de cada proyecto
+  # Configuración de ejemplo, no se aplicará mientras que no se elimine este plugin de los .yml de cada proyecto
   - search:
       lang: es
   - with-pdf:
@@ -60,13 +60,13 @@ plugins:
       #two_columns_level: 3
       #
     #render_js: true
-      #headless_chrome_path: headless-chromium
-      #
+    #headless_chrome_path: headless-chromium
+    #
     #output_path: ../document.pdf
-      #enabled_if_env: ENABLE_PDF_EXPORT
-      #
-      #debug_html: true
-      #show_anchors: true
+    #enabled_if_env: ENABLE_PDF_EXPORT
+    #
+    #debug_html: true
+    #show_anchors: true
     #verbose: true
 
 # Page tree
@@ -74,3 +74,4 @@ nav:
   - Home: index.md
 
 copyright: Contenido generado por el equipo educativo de ciberseguridad del IES Rafael Alberti
+
