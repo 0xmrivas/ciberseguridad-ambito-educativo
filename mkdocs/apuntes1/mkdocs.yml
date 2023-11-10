@@ -1,0 +1,16 @@
+INHERIT: ../base.yml
+site_name: Apuntes 1
+site_url: https://crispy-carnival-8f8f6875.pages.github.io/docs/apuntes1
+site_dir: ../../docs/apuntes1
+plugins:
+  - search:
+      lang: es
+  - with-pdf:
+      author: Equipo educativo de ciberseguridad del IES Rafael Alberti
+      copyright: CC BY-SA 4.0
+      cover: true
+      cover_logo: assets/logo-alberties.png
+      cover_title: Apuntes 1
+      cover_subtitle: Una aproximación coherente
+      toc_title: Tabla de contenidos
+      output_path: pdf/apuntes1.pdf
