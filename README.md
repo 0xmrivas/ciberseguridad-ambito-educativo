@@ -4,7 +4,7 @@
   <img src="assets/ciberseguridad_ambito_educativo.png" alt="Cover Hacking ético">
 </p>
 
-Repositorio para alojar los materiales del curso "La ciberseguridad en el ámbito educativo", realizado en el CEP de Cádiz durante el mes de noviembre de 2023 (9 horas presenciales).
+Repositorio para alojar los materiales del curso de formación "La ciberseguridad en el ámbito educativo", realizado en el CEP de Cádiz durante el mes de noviembre de 2023 (9 horas presenciales).
 
 
 ## Bloque 1. Protege tu espacio digital.

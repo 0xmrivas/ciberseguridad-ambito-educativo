@@ -6,7 +6,7 @@ hide:
 # Prevención de amenazas en línea
 
 <p align="center">
-  <img src="assets/bloque2.png" alt="Cover Hacking ético">
+  <img src="../assets/bloque2.png">
 </p>
 
 Intro

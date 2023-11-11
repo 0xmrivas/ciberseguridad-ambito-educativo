@@ -1,3 +1,9 @@
+<h2 class="r-fit-text" style="text-align: center"> Bastionado de Redes y Sistemas </h2>
+
+<img class="r-stretch" style="text-align: center" src="assets/logos-combinados.png">
+
+---
+
 <!-- Con # se ponen los títulos -->
 # Ejemplo Slides 1 - ejemplo
 

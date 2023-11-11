@@ -6,7 +6,7 @@ hide:
 # Las redes sociales como contextos sensibles.
 
 <p align="center">
-  <img src="assets/bloque3.png" alt="Cover Hacking ético">
+  <img src="../assets/bloque3.png" alt="Cover Hacking ético">
 </p>
 
 Intro
