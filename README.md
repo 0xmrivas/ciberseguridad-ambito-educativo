@@ -9,16 +9,16 @@ Repositorio para alojar los materiales del curso de formación "La cibersegurida
 
 ## Bloque 1. Protege tu espacio digital.
 
-* [Presentación](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/docs/slides/bloque1)
+* [Presentación](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/slides/sesion1)
 * [Guía de la sesión](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/docs/bloques/bloque1)
 
 ## Bloque 2. Prevención de amenazas en línea 
 
-* [Presentación]()
-* [Guía de la sesión]()
+<!-- * [Presentación]()
+* [Guía de la sesión]() -->
 
 ## Bloque 3. Las redes sociales como contextos sensibles.
 
-* [Presentación]()
-* [Guía de la sesión]()
+<!-- * [Presentación]()
+* [Guía de la sesión]() -->
 

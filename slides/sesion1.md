@@ -28,7 +28,7 @@
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/capa_8.png">
 
 Note:
-Esta imagen muestra una silueta humana llena de código digital y conexiones de red, simbolizando la vulnerabilidad y complejidad de los factores humanos en la seguridad digital. El fondo incluye capas de escudos y barreras digitales, representando esfuerzos para mejorar las defensas contra las vulnerabilidades humanas. La imagen intenta transmitir que el elemento humano es tanto el más débil como el más crucial en la ciberseguridad.
+Esta imagen muestra una silueta humana llena de código digital y conexiones de red, simbolizando la vulnerabilidad y complejidad de los factores humanos en la seguridad digital. El fondo incluye capas de escudos y barreras digitales, representando esfuerzos para mejorar las defensas contra las vulnerabilidades huDeshabilitar la función de autoarranque de dispositivos USBmanas. La imagen intenta transmitir que el elemento humano es tanto el más débil como el más crucial en la ciberseguridad.
 
 
 ###
@@ -37,7 +37,7 @@ Esta imagen muestra una silueta humana llena de código digital y conexiones de 
 
 * Psicología: Punto de Ataque.<!-- .element: class="fragment" -->
 
-* Sin Solución Única.<!-- .element: class="fragment" -->
+* Sin Solución Única.<!-- .eleDeshabilitar la función de autoarranque de dispositivos USBment: class="fragment" -->
 
 * Fortaleciendo Defensas.<!-- .element: class="fragment" -->
 
@@ -59,7 +59,7 @@ Note:
 *  Medios falibles<!-- .element: class="fragment" -->
 
 
-### "Mis datos, mi tesoro"
+### Mis datos, mi tesoro
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/tesoro.png">
 
@@ -68,6 +68,7 @@ Note:
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/responsabilidad.png">
 
+Deshabilitar la función de autoarranque de dispositivos USB
 
 ###
 *  ¿Dónde están los datos de mi alumnado?
@@ -147,6 +148,30 @@ La imagen muestra un paisaje digital con un camino que atraviesa diversas amenaz
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/rubber-ducky.png">
 
 
+### 
+
+* Desconfiar y no conectar a nuestros equipos dispositivos encontrados en espacios públicos o de origen desconocido.
+
+* Disponer de un antivirus activo y debidamente actualizado.<!-- .element: class="fragment" -->
+
+
+### Deshabilitar la función de autoarranque de dispositivos USB
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/autoarranque.jpg">
+
+Note:
+De este modo, si por error conectamos un dispositivo USB infectado a nuestro equipo, el malware o las herramientas que contenga no se activarán automáticamente, y podremos analizar y eliminar esas amenazas con un antivirus. En Windows, por ejemplo, para hacerlo deberemos acceder al icono de Windows > Configuración > Dispositivos > Reproducción automática y desactivar esta opción.
+
+
+###
+
+* Una vez conectado, haremos clic derecho sobre él.
+
+* Luego, haremos clic sobre “Analizar con…”
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/analizar_usb.jpg">
+
+
 ### El Poder del Cifrado: Protegiendo Nuestros Datos
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/cifrado.png">
@@ -169,7 +194,7 @@ Cifrar los discos, soportes y dispositivos, de tal modo que en caso de pérdida 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/demo.png">
 
 
-### Selección Consciente de Aplicaciones.
+### el riesgo del síndrome de Diógenes digital
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/seleccion_apps.png">
 
@@ -239,6 +264,9 @@ Note:
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/primera_linea.png">
 
+Note:
+Las contraseñas son las llaves de nuestras cuentas en línea, protegen nuestra información personal, información financiera, acceso no autorizado. Pero, si no son seguras...
+
 
 ###
 
@@ -251,7 +279,7 @@ Note:
 Note:
 Importancia de las Contraseñas Seguras
 Demo:
-* Importancia contraseña segura: leaks, crack,pw es importante la longitud y complejidad. <img class="r-stretch" style="text-align: center" src="assets/sesion1/primera_linea.png">
+* Importancia contraseña segura: leaks, crack, es importante la longitud y complejidad.
 * Leaks de contraseñas: 
     * https://www.dehashed.com/
     * https://haveibeenpwned.com/
@@ -267,11 +295,16 @@ Demo:
 
 * Criterios: Larga, compleja, única.
 
-* Ejemplos de buenas vs malas contraseñas.<!-- .element: class="fragment" -->
+* El riesgo de lo predecible<!-- .element: class="fragment" -->
+
+*  La regla de oro: diversificar<!-- .element: class="fragment" -->
 
 * Herramientas para crear contraseñas seguras.<!-- .element: class="fragment" -->
 
-* La paradoja de la complejidad.<!-- .element: class="fragment" -->
+Note:
+- **El riesgo de lo predecible**. Es fácil caer en la trampa de elegir contraseñas basadas en datos personales: fechas de nacimiento, nombres de mascotas o combinaciones simples como "123456". Sin embargo, los ciberdelincuentes suelen probar primero estas combinaciones obvias, haciendo que las contraseñas predecibles sean un blanco fácil.
+
+- **La regla de oro: diversificar**. Usar la misma contraseña en múltiples plataformas es un riesgo tremendo. Si un ciberdelincuente obtiene tu contraseña de un sitio, inmediatamente tendrá acceso a todos tus demás servicios. La diversificación es clave.
 
 
 ### Tu Cofre Forte Digital
@@ -281,7 +314,9 @@ Demo:
 
 ###
 
-* ¿Qué es un gestor de contraseñas?.
+* La paradoja de la complejidad.
+
+* ¿Qué es un gestor de contraseñas?.<!-- .element: class="fragment" -->
 
 * Demostración práctica de uso.<!-- .element: class="fragment" -->
 
@@ -294,7 +329,17 @@ Demo:
 
 * Cambiar contraseñas regularmente.<!-- .element: class="fragment" -->
 
-* Variar es más importante de lo que parece.<!-- .element: class="fragment" -->
+Note: 
+
+MFA generalmente involucra tres factores o categorías diferentes de autenticación:
+
+* Algo que conoces: Este factor implica la autenticación basada en el conocimiento, donde el usuario debe proporcionar información que solo él debería conocer, como una contraseña, PIN o la respuesta a una pregunta secreta.
+
+* Algo que tienes: Este factor se refiere a la autenticación basada en la posesión, donde el usuario debe poseer un objeto o dispositivo físico para completar el proceso de autenticación. Puede ser un teléfono móvil, un token de hardware, una tarjeta inteligente o una contraseña de un solo uso (OTP) generada por una aplicación de autenticación.
+
+* Algo que eres: Este factor utiliza la autenticación basada en la biometría, confiando en los rasgos físicos o de comportamiento únicos del usuario. Se utiliza datos biométricos, como reconocimiento facial, huellas dactilares, escaneos de iris o reconocimiento de voz, para verificar la identidad del usuario.
+
+- Autenticación Multifactor vs de 2 Factores
 
 ---
 
@@ -352,6 +397,8 @@ Note:
 - Pretty Good Privacy (PGP): Este programa ofrece cifrado y autenticación criptográfica, muy usado para cifrar correos.
 
 - Servicios de Correo con Cifrado de Extremo a Extremo: Plataformas como ProtonMail y Tutanota proporcionan cifrado completo, asegurando que solo las partes implicadas en la comunicación pueden acceder al contenido del correo.
+
+Mientras que muchos proveedores de correo electrónico recogen un montón de datos personales, ProtonMail no lo hace. Además de las inscripciones anónimas y la ausencia de registro de direcciones IP, ProtonMail es uno de los pocos proveedores de correo electrónico que permite a sus usuarios disfrutar de un anonimato total.
 
 
 ### Doble Barrera: Autenticación de Dos Factores
