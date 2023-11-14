@@ -71,6 +71,7 @@ hide:
 
 * [¿Qué es la Autenticación Multifactor?](https://www.mobbeel.com/blog/que-es-la-autenticacion-multifactor-o-de-2-factores/)
 
+
 ## Comunicación segura: Correo electrónico.
 
 * [Filtros de correo antispam: para qué sirven y cómo configurarlos](https://www.incibe.es/ciudadania/blog/filtros-de-correo-antispam-para-que-sirven-y-como-configurarlos)
@@ -85,6 +86,12 @@ hide:
 
 * [Envía emails encriptados usando PGP](https://www.redeszone.net/tutoriales/seguridad/cifrado-pgp-gmail-outlook-mailvelope/)
 
-* [¿Cómo se activa el factor de doble autenticación (2FA) en Google?](https://www.ciberseguridad.eus/hogar-seguro/como/como-se-activa-el-factor-de-doble-autenticacion-2fa-en-google)
+* [¿Tengo activa el 2FA en mi cuenta de gmail?](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome?hl=es)
 
-* [Protege tu cuenta Google con la verificación en dos pasos](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome?hl=es)
+* [Enlace para activar la verificación en dos pasos gmail](https://support.google.com/accounts/answer/185839?hl=es&co=GENIE.Platform%3DDesktop)
+
+* [¿Cómo se activa el factor de doble autenticación (2FA) en Google? - Tutorial](https://www.ciberseguridad.eus/hogar-seguro/como/como-se-activa-el-factor-de-doble-autenticacion-2fa-en-google)
+
+* [Cómo activar la doble autenticación en Google - Video](https://www.youtube.com/watch?v=VPXexTD0zqA)
+
+* [SMS Phishing Scam for Email Accounts | Symantec](https://www.youtube.com/watch?v=_dj_90TnVbo)
