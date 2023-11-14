@@ -38,6 +38,8 @@ hide:
 
 - [Folder Lock makes it easy to put a password on a folder](https://www.newsoftwares.net/folderlock/)
 
+- [Las mejores herramientas de cifrado de archivos y discos para Linux](https://cristianthous.com/las-mejores-herramientas-de-cifrado-de-archivos-y-discos-para-linux)
+
 - [Vulnerabilidades reportadas en 2022 aumentaron 26% y alcanzaron nuevo récord histórico](https://www.welivesecurity.com/la-es/2023/01/12/vulnerabilidades-reportadas-2022-aumentaron-record-historico/)
 
 - [El 76% de las vulnerabilidades explotadas en 2022 tenían hasta 13 años de antigüedad](https://www.watchguard.com/es/wgrd-news/blog/el-76-de-las-vulnerabilidades-explotadas-en-2022-tenian-hasta-13-anos-de-antiguedad)

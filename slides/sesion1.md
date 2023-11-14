@@ -4,16 +4,111 @@
  
 ---
 
-## Introducción a la Ciberseguridad
+## Desmitificando la Ciberseguridad
 
-<img class="r-stretch" style="text-align: center" src="assets/sesion1/introduccion.png">
-
-
-### Triada CIA
-<img class="r-stretch" style="text-align: center" src="assets/sesion1/CIA.png">
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/desmitificando.png">
 
 
-### Internet fue diseñada por caballeros y para caballeros
+### Mitos
+
+* Los hackers son personas malintencionadas.<!-- .element: class="fragment" -->
+
+* Con un antivirus, mi dispositivo está seguro.<!-- .element: class="fragment" -->
+
+* Los Macs no pueden ser infectados por virus.<!-- .element: class="fragment" -->
+
+* El phishing es para atacar grandes empresas u organizaciones.<!-- .element: class="fragment" -->
+<!-- .element: class="fragment" -->
+* Si una página web tiene el candadito cerrado y/o verde, es 100% seguro.<!-- .element: class="fragment" -->
+
+Note:
+* Los hackers son personas malintencionadas.
+Realidad: Existen hackers éticos, dedicados a fortalecer la seguridad, a través de pruebas de penetración y análisis de vulnerabilidades.
+
+* Con un antivirus, mi dispositivo está 100% seguro.
+Realidad: Si bien el antivirus es una herramienta útil, no es una solución completa. La ciberseguridad es un enfoque en capas que requiere medidas adicionales, como mantener el software actualizado y practicar buenas contraseñas.
+
+* Los Macs no pueden ser infectados por virus.
+Realidad: Aunque macOS tiene una seguridad sólida, no es inmune a los virus y malware. Los ciberdelincuentes también atacan a usuarios de Mac, y se deben tomar precauciones para proteger estos dispositivos.
+
+* El phishing es para atacar grandes empresas u organizaciones.
+Realidad: Los ciberataques no tiene un único objetivo; las pequeñas empresas y la ciudadanía suelen ser más vulnerables.
+
+* Si una página web tiene el candadito cerrado y/o verde, es 100% seguro.  
+Realidad: Indica que la conexión está cifrada, aunque no garantiza la legitimidad del sitio. Es importante verificar la URL y la fuente.
+
+
+* Por seguridad, nunca accedo a mis cuentas en las Wi-Fi públicas, solo lo hago en casa o en la oficina.
+
+* No tengo que preocuparme por mis datos, los tengo a salvo en la nube.<!-- .element: class="fragment" -->
+
+* Solo recibo correos electrónicos seguros de amigos y familiares.<!-- .element: class="fragment" -->
+
+* No tengo dinero, soy solo un usuario común, los ciberdelincuentes no se fijarán en mí.<!-- .element: class="fragment" -->
+
+Note:
+
+* Nunca accedo a mis cuentas en las Wi-Fi públicas, solo lo hago en casa o en la oficina. 
+Realidad: El 80% de los ataques son internos, la seguridad es mas laxa.
+
+* No tengo que preocuparme por mis datos, los tengo a salvo en la nube.
+Realidad: La seguridad en la nube es sólida, pero la responsabilidad de proteger tus datos también recae en ti. Utiliza autenticación de doble factor y contraseñas fuertes para proteger tus cuentas en la nube.
+
+* Solo recibo correos electrónicos seguros de amigos y familiares.
+Realidad: Los ciberdelincuentes pueden suplantar identidades y enviar correos electrónicos falsos. Siempre verifica la autenticidad antes de hacer clic en enlaces o descargar archivos adjuntos.
+
+* No tengo dinero, soy solo un usuario común, los ciberdelincuentes no se fijarán en mí.
+Realidad: Aunque puedas pensar que tu perfil no es relevante y aunque no tengas grandes sumas de dinero para los ciberdelincuentes, la realidad es que todos somos susceptibles a ser víctimas de ataques cibernéticos.
+
+
+### Algunas realidades...
+
+* En promedio, ocurre un ciberataque cada 39 segundos.<!-- .element: class="fragment" -->
+
+* Los ciberataques aumentaron en un 38% en 2022.<!-- .element: class="fragment" -->
+
+* El 43% de los ciberataques están dirigidos a particulares y pequeñas empresas.<!-- .element: class="fragment" -->
+
+* El costo global de la ciberdelincuencia se estima en $6 trillones anuales, superando el valor del narcotráfico.<!-- .element: class="fragment" -->
+
+Note:
+
+Estos puntos destacan la frecuencia, el crecimiento, la diversidad de víctimas y el impacto económico significativo de los ciberataques, proporcionando una perspectiva impactante y relevante para introducir tu curso.
+
+- [Balance de Ciberseguridad 2022 (INCIBE)](https://portal.mineco.gob.es/RecursosNoticia/mineco/prensa/noticias/2023/Balance_de_Ciberseguridad_2022_INCIBE.pdf)
+
+
+### Hay dos tipos de personas
+ 
+* La que ha sido hackeada...<!-- .element: class="fragment" -->
+
+* Y la que no sabe que ha sido hackeada.<!-- .element: class="fragment" -->
+
+
+### Nuetro objetivo: Guía de Supervivencia
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/guia_supervivencia.png">
+
+Note:
+Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseguridad" para profesorado.
+
+La imagen muestra un paisaje digital con un camino que atraviesa diversas amenazas cibernéticas, como enormes candados, correos electrónicos en forma de trampas y almacenamiento de datos en forma de nubes flotantes. Un grupo de personajes animados, representando a profesores, navega con confianza por el camino, armados con escudos y linternas que simbolizan el conocimiento y la conciencia. 
+
+
+###
+
+* Crear juntos una guía práctica y realista.
+
+* Aprenderemos a protegernos en el mundo digital.<!-- .element: class="fragment" -->
+
+* No hay que temer, ¡estamos preparados!<!-- .element: class="fragment" -->
+
+---
+<!-- ## Introducción a la Ciberseguridad
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/introduccion.png"> -->
+
+## Internet fue diseñada por caballeros y para caballeros
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/origenes.png">
 
@@ -28,7 +123,8 @@
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/capa_8.png">
 
 Note:
-Esta imagen muestra una silueta humana llena de código digital y conexiones de red, simbolizando la vulnerabilidad y complejidad de los factores humanos en la seguridad digital. El fondo incluye capas de escudos y barreras digitales, representando esfuerzos para mejorar las defensas contra las vulnerabilidades huDeshabilitar la función de autoarranque de dispositivos USBmanas. La imagen intenta transmitir que el elemento humano es tanto el más débil como el más crucial en la ciberseguridad.
+Esta imagen muestra una silueta humana llena de código digital y conexiones de red, simbolizando la vulnerabilidad y complejidad de los factores humanos en la seguridad digital. El fondo incluye capas de escudos y barreras digitales, representando esfuerzos para mejorar las defensas contra las vulnerabilidades humanas. 
+* **La imagen intenta transmitir que el elemento humano es tanto el más débil como el más crucial en la ciberseguridad.**
 
 
 ###
@@ -37,7 +133,7 @@ Esta imagen muestra una silueta humana llena de código digital y conexiones de 
 
 * Psicología: Punto de Ataque.<!-- .element: class="fragment" -->
 
-* Sin Solución Única.<!-- .eleDeshabilitar la función de autoarranque de dispositivos USBment: class="fragment" -->
+* Sin Solución Única.<!-- .element: class="fragment" -->
 
 * Fortaleciendo Defensas.<!-- .element: class="fragment" -->
 
@@ -56,7 +152,8 @@ Note:
 
 *  Pérdida o filtrado de información<!-- .element: class="fragment" -->
 
-*  Medios falibles<!-- .element: class="fragment" -->
+Note:
+- [10 Most Common Types of Cyber Attacks](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/)
 
 
 ### Mis datos, mi tesoro
@@ -68,7 +165,6 @@ Note:
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/responsabilidad.png">
 
-Deshabilitar la función de autoarranque de dispositivos USB
 
 ###
 *  ¿Dónde están los datos de mi alumnado?
@@ -76,6 +172,18 @@ Deshabilitar la función de autoarranque de dispositivos USB
 *  ¿Puedo usar cualquier aplicación libremente?<!-- .element: class="fragment" -->
 
 *  ¿Quién tiene la responsabilidad?<!-- .element: class="fragment" -->
+
+
+### Nuevos Desafíos en la Ciberseguridad
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/nuevosDesafios.png">
+
+
+###
+
+* Auge de IA en ataques.
+
+* Vulnerabilidades IoT.<!-- .element: class="fragment" -->
 
 
 ### Estrategia de Defensa en Profundidad
@@ -98,25 +206,6 @@ Note:
 * Prevención y Detección Combinadas: Sistemas complementarios para mayor eficacia.
 * Reducción de Riesgos: Cada barrera reduce la probabilidad de brechas.
 * Adaptabilidad y Resiliencia: Capacidad para resistir y adaptarse a amenazas cambiantes.
-
-
-### Guía de Supervivencia: Navegando con Seguridad
-
-<img class="r-stretch" style="text-align: center" src="assets/sesion1/guia_supervivencia.png">
-
-Note:
-Representación creativa y simbólica de una "Guía de Supervivencia en Ciberseguridad" para profesorado.
-
-La imagen muestra un paisaje digital con un camino que atraviesa diversas amenazas cibernéticas, como enormes candados, correos electrónicos en forma de trampas y almacenamiento de datos en forma de nubes flotantes. Un grupo de personajes animados, representando a profesores, navega con confianza por el camino, armados con escudos y linternas que simbolizan el conocimiento y la conciencia. 
-
-
-###
-
-* Crear juntos una guía práctica y realista.
-
-* Aprenderemos a protegernos en el mundo digital.<!-- .element: class="fragment" -->
-
-* No hay que temer, ¡estamos preparados!<!-- .element: class="fragment" -->
 
 ---
 
@@ -151,6 +240,8 @@ La imagen muestra un paisaje digital con un camino que atraviesa diversas amenaz
 ### 
 
 * Desconfiar y no conectar a nuestros equipos dispositivos encontrados en espacios públicos o de origen desconocido.
+
+* Deshabilitar la función de autoarranque de dispositivos USB. <!-- .element: class="fragment" -->
 
 * Disponer de un antivirus activo y debidamente actualizado.<!-- .element: class="fragment" -->
 
