@@ -10,6 +10,9 @@ hide:
 </p>
 
 
+En este primer bloque, "Protege tu espacio digital", nos adentramos en el mundo de la ciberseguridad con una visión integral, abordando desde los errores comunes hasta las tendencias en ataques cibernéticos. Exploramos métodos efectivos para resguardar tu privacidad, enfocándonos en amenazas como dispositivos USB maliciosos y la importancia de un almacenamiento seguro. Además, descubriremos la relevancia de las contraseñas como primera línea de defensa en seguridad digital, aprendiendo a generar y gestionar contraseñas seguras. Finalmente, este bloque se completa con estrategias para una comunicación segura vía correo electrónico, incluyendo el uso de filtros antispam y encriptación de emails.
+
+
 ## Introducción a la ciberseguridad
 
 - [Error Capa 8, 9 y 10: ¿Por qué la ciberseguridad debe ser tratada de manera integral?](https://es.linkedin.com/pulse/error-capa-8-9-y-10-por-qu%C3%A9-la-ciberseguridad-debe-de-paris-balleza)

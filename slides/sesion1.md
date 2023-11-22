@@ -285,7 +285,7 @@ Cifrar los discos, soportes y dispositivos, de tal modo que en caso de pérdida 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/demo.png">
 
 
-### el riesgo del síndrome de Diógenes digital
+### El riesgo del síndrome de Diógenes digital
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/seleccion_apps.png">
 
@@ -326,24 +326,6 @@ Note:
 - 2 formatos distintos: Reducir riesgos técnicos.
 - 1 copia fuera de lugar: Protección contra desastres.
 
-
-### Navegación Privada
-
-<img class="r-stretch" style="text-align: center" src="assets/sesion1/incognito.png">
-
-
-###
-
-* Evita dejar huellas digitales en PCs compartidos.
-
-* Protege tus credenciales en navegación pública.<!-- .element: class="fragment" -->
-
-* La navegación privada no guarda historial ni cookies.<!-- .element: class="fragment" -->
-
-
-### 
-<img class="r-stretch" style="text-align: center" src="assets/sesion1/private.png">
-
 ---
 
 ## Guardianes de contraseñas seguras
@@ -369,12 +351,19 @@ Las contraseñas son las llaves de nuestras cuentas en línea, protegen nuestra 
 
 Note:
 Importancia de las Contraseñas Seguras
+* [Las 20 contraseñas más usadas en 2022 son también las menos recomendadas](https://www.welivesecurity.com/la-es/2022/11/16/contrasenas-mas-usadas-2022/)
+
+* [Top 200 contraseñas más seguras](https://nordpass.com/es/most-common-passwords-list/)
 Demo:
-* Importancia contraseña segura: leaks, crack, es importante la longitud y complejidad.
+* Importancia contraseña segura: leaks, crack, es importante la longitud y complejidad. 
+* Prueba md5sum vs website & decode
+* Bases de datos en internet, https://pastebin.com/.
+* https://www.exploit-db.com/google-hacking-database
 * Leaks de contraseñas: 
     * https://www.dehashed.com/
     * https://haveibeenpwned.com/
-* Bases de datos en internet, https://pastebin.com/. -->
+    * https://password.kaspersky.com/
+- Diversificar => Sherlock - kali | https://seon.io/resources/how-to-find-social-media-accounts-by-email-address-only/
 
 
 ### Construyendo Muros Robustos
