@@ -91,19 +91,6 @@ Esta sección está enfocada en cómo prevenir amenazas en línea y navegar de m
 - [Suplantan a la Administración para intentar instalarte un malware bajo el asunto “Comprobante Fiscal”](https://www.incibe.es/ciudadania/avisos/suplantan-la-administracion-para-intentar-instalarte-un-malware-bajo-el)
 
 
-### Carteles y Recursos
-
-- [Cómo comprobar si un enlace es malicioso](https://www.incibe.es/sites/default/files/docs/como-comprobar-enlace-malicioso.pdf)
-
-- [Refranero de las compras seguras online](https://www.incibe.es/sites/default/files/docs/refraneo_compras_seguras_online.pdf)
-
-- [Guía para aprender a identificar fraudes online](https://www.incibe.es/ciudadania/formacion/guias/guia-para-aprender-identificar-fraudes-online)
-
-- [Actividad Interactiva - Prueba de detección de ingeniería social](https://www.incibe.es/ciudadania/formacion/actividades/prueba-deteccion-ingenieria-social)
-
-- [Cartel phising Consejo4Kids](https://www.incibe.es/sites/default/files/contenidos/materiales/Campanas/Fraudesonline/phishing_consejo4kids.jpg)
-
-
 ## Resistiendo el Ransomware.
 
 * [Ransomware - Una guía de aproximación](https://www.incibe.es/sites/default/files/contenidos/guias/doc/guia_ransomware.pdf)
@@ -118,4 +105,12 @@ Esta sección está enfocada en cómo prevenir amenazas en línea y navegar de m
 ## Seguridad en dispositivos móviles: Protegiendo tu información en smartphones y tablets.
 
 * [Configuraciones en dispositivos móviles](https://www.incibe.es/ciudadania/tematicas/dispositivos-moviles)
+- [Blinda tu smartphone: apps de seguridad para tu dispositivo móvil](https://www.incibe.es/ciudadania/blog/blinda-tu-smartphone-apps-de-seguridad-para-tu-dispositivo-movil)
+- [Algunos antivirus Gratuitos](https://www.incibe.es/ciudadania/filtro/herramientas?tid=303601&tid_1=All&tid_2=All&tid_3=All)
+- [Koodous Mobile](https://koodous.com/product/koodous-mobile)
+- [CONAN mobile](https://play.google.com/store/apps/details?id=es.inteco.conanmobile&hl=es&gl=US)
+- [Norton App Lock - Bloqueo de aplicaciones](https://play.google.com/store/apps/details?id=com.symantec.applock)
+- [Cómo desvincular mi número de móvil de mi cuenta de Apple](https://www.incibe.es/ciudadania/blog/como-desvincular-mi-numero-de-movil-de-mi-cuenta-de-apple)
+- [Cómo desvincular mi número de móvil de mi cuenta de Google](https://www.incibe.es/ciudadania/blog/como-desvincular-mi-numero-de-movil-de-mi-cuenta-de-google)
+- [Aprende a dejar tus dispositivos como nuevos](https://www.incibe.es/ciudadania/blog/aprende-dejar-tus-dispositivos-como-nuevos)
 * [Buenas prácticas para el borrado seguro de dispositivos móviles](https://concienciat.gva.es/wp-content/uploads/2018/03/infor_borrado_seguro_dispositivos_moviles.pdf)

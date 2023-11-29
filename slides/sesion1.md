@@ -209,7 +209,7 @@ Note:
 
 ---
 
-## Resguardando tu privacidad
+## Protegiendo el Castillo
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/privacidad.png">
 
@@ -438,16 +438,6 @@ Note:
 * Prácticas esenciales para mantenerse a salvo del spam.
 
 
-### Detective Digital: Identificando Phishing
-
-<img class="r-stretch" style="text-align: center" src="assets/sesion1/detective.png">
-
-Note:
-* Aprender a identificar correos sospechosos.
-* Ejercicios prácticos de detección.
-* Manteniendo la vigilancia contra el fraude.
-
-
 ### Fortaleza de Cifrado: Seguridad en Correos
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion1/mensajecifrado.png">
@@ -479,6 +469,10 @@ Note:
 - Servicios de Correo con Cifrado de Extremo a Extremo: Plataformas como ProtonMail y Tutanota proporcionan cifrado completo, asegurando que solo las partes implicadas en la comunicación pueden acceder al contenido del correo.
 
 Mientras que muchos proveedores de correo electrónico recogen un montón de datos personales, ProtonMail no lo hace. Además de las inscripciones anónimas y la ausencia de registro de direcciones IP, ProtonMail es uno de los pocos proveedores de correo electrónico que permite a sus usuarios disfrutar de un anonimato total.
+
+
+## 
+<img class="r-stretch" style="text-align: center" src="assets/sesion1/simpleLogin.png">
 
 
 ### Doble Barrera: Autenticación de Dos Factores

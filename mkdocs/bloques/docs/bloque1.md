@@ -22,8 +22,7 @@ En este primer bloque, "Protege tu espacio digital", nos adentramos en el mundo 
 - [10 Most Common Types of Cyber Attacks](https://www.crowdstrike.com/cybersecurity-101/cyberattacks/most-common-types-of-cyberattacks/)
 
 
-
-## Resguardando tu privacidad.
+## Protegiendo el castillo.
 
 - [Rubber Ducky, la amenaza camuflada](https://www.incibe.es/empresas/blog/rubber-ducky-simple-memoria-usb#:~:text=El%20Rubber%20Ducky%20tiene%20la,los%20teclados%20y%20los%20ratones.)
 
@@ -88,6 +87,10 @@ En este primer bloque, "Protege tu espacio digital", nos adentramos en el mundo 
 * [Seguridad para no-informáticos: encriptando nuestro correo en Gmail](https://infseg.com/index.php/2016/02/09/seguridad-no-informaticos-encriptando-correo-gmail/)
 
 * [Envía emails encriptados usando PGP](https://www.redeszone.net/tutoriales/seguridad/cifrado-pgp-gmail-outlook-mailvelope/)
+
+* [Proton Mail: un correo electrónico privado, seguro y cifrado](https://proton.me/es-es/mail)
+
+* [Simple Login - Recibir y enviar correos electrónicos de forma anónima](https://simplelogin.io/)
 
 * [¿Tengo activa el 2FA en mi cuenta de gmail?](https://myaccount.google.com/signinoptions/two-step-verification/enroll-welcome?hl=es)
 

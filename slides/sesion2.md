@@ -458,9 +458,9 @@ Pero sin duda lo más importante es el sentido común. Muchos de los principales
 <img class="r-stretch" style="text-align: center" src="assets/sesion2/casos-practicos.png">
 
 
-### Recursos Educativos
+<!-- ### Recursos Educativos
 
-<img class="r-stretch" style="text-align: center" src="assets/sesion2/recursos-educativos.png">
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/recursos-educativos.png"> -->
 
 
 ### Actuando Ante una Estafa
@@ -550,20 +550,45 @@ En esta parte, abordaremos qué es el ransomware y cómo puede afectar nuestro t
 
 <img class="r-stretch" style="text-align: center" src="assets/sesion2/seguridad-dispositivos_moviles.png">
 
+Note:
 
-###
+Cómo mantener segura nuestra información en dispositivos móviles. Cubriremos los riesgos asociados con smartphones y tablets, cómo configurar adecuadamente nuestros dispositivos, la importancia de las actualizaciones y las aplicaciones seguras, así como buenas prácticas para el uso diario.
 
-- Riesgos en smartphones/tablets.
 
-- Configuraciones de seguridad.
+### Protege el acceso a tu dispositivo
 
-- Apps seguras y actualizaciones.
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/acceso.png"><!-- .element: class="fragment" -->
 
-- Buenas prácticas de uso diario
 
-Note: 
+### Comprueba que tu dispositivo está actualizado
 
-Finalizaremos con una discusión sobre cómo mantener segura nuestra información en dispositivos móviles. Cubriremos los riesgos asociados con smartphones y tablets, cómo configurar adecuadamente nuestros dispositivos, la importancia de las actualizaciones y las aplicaciones seguras, así como buenas prácticas para el uso diario.
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/actualizado.png"><!-- .element: class="fragment" -->
+
+
+### Copias de seguridad
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/copias.png"><!-- .element: class="fragment" -->
+
+
+### Descarga e instala las aplicaciones desde las tiendas oficiales
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/tiendas.png"><!-- .element: class="fragment" -->
+
+
+### Activa el doble factor de autenticación
+
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/doble.png"><!-- .element: class="fragment" -->
+
+
+### Antivirus
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/koodous.png">
+
+
+### Algo de ayuda extra...
+<img class="r-stretch" style="text-align: center" src="assets/sesion2/conan.png">
+
+Note:
+Nos permitirá conocer el estado de seguridad de nuestros dispositivos, mostrando posibles riesgos en su configuración y cómo solucionarlos. Además, verifica que no tengamos instalada ninguna app maliciosa, nos alerta en caso de detectar ciertas situaciones de riesgo, y nos proporciona consejos para mejorar nuestra seguridad.
 
 ---
 

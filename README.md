@@ -14,8 +14,8 @@ Repositorio para alojar los materiales del curso de formación "La cibersegurida
 
 ## Bloque 2. Prevención de amenazas en línea 
 
-<!-- * [Presentación]()
-* [Guía de la sesión]() -->
+* [Presentación](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/slides/sesion2)
+* [Guía de la sesión](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/docs/bloques/bloque2)
 
 ## Bloque 3. Las redes sociales como contextos sensibles.
 
