@@ -19,6 +19,8 @@ Repositorio para alojar los materiales del curso de formación "La cibersegurida
 
 ## Bloque 3. Las redes sociales como contextos sensibles.
 
-<!-- * [Presentación]()
-* [Guía de la sesión]() -->
+* [Presentación](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/slides/sesion3)
+* [Guía de la sesión](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/docs/bloques/bloque3)
+
+## [Recursos Educativos](https://0xmrivas.github.io/ciberseguridad-ambito-educativo/docs/bloques/recursosEducativos/)
 
